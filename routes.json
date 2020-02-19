@@ -1,0 +1,17 @@
+[
+  {
+    "method": "GET",
+    "path": "/info",
+    "name": "main.main.func2"
+  },
+  {
+    "method": "GET",
+    "path": "/serveZIP",
+    "name": "main.getZIP"
+  },
+  {
+    "method": "GET",
+    "path": "/*",
+    "name": "github.com/labstack/echo.common.static.func1"
+  }
+]
